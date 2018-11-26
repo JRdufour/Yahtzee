@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{402F10F2-BDA6-4256-B680-1E43F3F403F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yatzee/Game.cs">
+    <Files>
+      <File FileName="Yatzee/ScoreCard.cs" Line="39" Column="19" />
+      <File FileName="Yatzee/ScoreItem.cs" Line="163" Column="1" />
+      <File FileName="Yatzee/Hands.cs" Line="6" Column="6" />
+      <File FileName="Yatzee/Game.cs" Line="124" Column="12" />
+      <File FileName="Yatzee/Program.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Yatzee PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/Dufour/Projects/Yatzee/Yatzee/bin/Debug/Yatzee.exe
+/Users/Dufour/Projects/Yatzee/Yatzee/bin/Debug/Yatzee.pdb
+/Users/Dufour/Projects/Yatzee/Yatzee/obj/x86/Debug/Yatzee.csproj.CoreCompileInputs.cache
+/Users/Dufour/Projects/Yatzee/Yatzee/obj/x86/Debug/Yatzee.exe
+/Users/Dufour/Projects/Yatzee/Yatzee/obj/x86/Debug/Yatzee.pdb
+/Users/Dufour/Projects/Yatzee/Yatzee/obj/x86/Debug/Yatzee.csprojAssemblyReference.cache
